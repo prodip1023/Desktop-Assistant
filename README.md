@@ -4,7 +4,7 @@
  ## Create an Environment using Conda 
 
  ```
-conda create -n assistant python=3.7 -y 
+conda create -n assistant python=3.8 -y 
 ```
 
 ### List of the all Environment 
@@ -24,3 +24,14 @@ conda activate assistant
 ```
 pip list
 ```
+### Installation Packages 
+
+```
+pip install -r requirements.txt
+```
+
+
+### Reference :
+ - https://pyttsx3.readthedocs.io/en/latest/engine.html 
+ - https://readthedocs.org/projects/pyttsx3/downloads/pdf/latest/
+ - 
